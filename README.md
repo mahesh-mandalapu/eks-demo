@@ -1,5 +1,5 @@
-# eks-demo
-
+# eks-demo - Node.Js
+ 
 1. Set up a new IAM role with EKS permissions
 create ECR repo, build push your docker image there.
 
